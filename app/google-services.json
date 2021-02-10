@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218743882082",
+    "project_id": "knowme-bdff7",
+    "storage_bucket": "knowme-bdff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218743882082:android:c6f9669d8afcf5c618ac3b",
+        "android_client_info": {
+          "package_name": "com.sociale.knowme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218743882082-au2a821cav1cpikkcn3amcepmfhs5mru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxSgNjam0FYO15V9Xa2A6VbLA-Fmp8Tgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218743882082-au2a821cav1cpikkcn3amcepmfhs5mru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
