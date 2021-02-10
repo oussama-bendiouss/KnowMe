@@ -1,0 +1,2 @@
+# KnowMe
+C'est une application que j'ai crée après avoir suivre un tutoriel, c'est vrai que j'ai pas ajouter beaucoup de truc sur ce qui est expliqué dans ce tuto, mais j'ai appris pas mal de chose.En gros c'est une application android programmé avec java et développé avec l'outil android studio, qui est sous la forme d'un simple réseau social, qui utilise Firebase comme base de donnée  et meme pour l'authentification. L'utilisateur peut se connecter à son compte où crée un nouveau s'il n'y a pas encore un et après il peut envoyer des messages .  
